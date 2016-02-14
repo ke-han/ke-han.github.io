@@ -1,0 +1,12 @@
+# Site settings
+title: Ke Han Group at SJTU Physics
+email: ke.han@sjtu.edu.cn
+description: > # this means to ignore newlines until "baseurl:"
+    Everything about Ke Han's group at Shanghai Jiao Tong University. We work on neutrino and dark matter physics at undergorund labs in China and around the world.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://locahost:4000" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  ke-han
+
+# Build settings
+markdown: kramdown

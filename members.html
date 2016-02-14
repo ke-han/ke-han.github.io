@@ -1,0 +1,22 @@
+---
+layout: default 
+---
+
+<article id="main">
+    <section class="wrapper style1 container special">
+        <div class="row">
+            {% for member in site.data.members %}
+            <div class="4u">
+                <section>
+                    <a href="#" class="image featured"><img src="headshots/{{ member.pic }}" alt="" /></a>
+                    <header>
+                        <h3>{{ member.name }} </h3>
+                    </header>
+                    <p> {{ member.bio }} </p>
+                </section>
+            
+            </div>
+            {% endfor %}
+        </div>
+        </div>
+</article>
