@@ -1,0 +1,27 @@
+- title: Han Group at SJTU
+  url: "/"
+  side: left
+
+- title: "Physics"
+  url: "/physics/"
+  side: right
+
+- title: "Projects"
+  url: "/projects/"
+  side: right
+
+- title: "Members"
+  url: "/members/"
+  side: right
+
+- title: "News"
+  url: "/news/"
+  side: right
+
+- title: Publications
+  url: "/publications/"
+  side: right
+
+- title: 中文版
+  url: "/cn/"
+  side: right
